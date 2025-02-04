@@ -6,8 +6,14 @@
 2. [Blackout2025](https://github.com/minhjih/Blackout2025)
 
 ## JUNCTIONBREMEN
+### Momma
+Momma is the Full stacked application which gives Food information and automatically examining nutrient information for pregnant women
+The service gives information about nutrients powered by customed AI. Based on eaten foods’ information, user can manage and check their nutrients information in targetting period. Not only providing nutrient from food image, but also analyzing information of delivery food from image, they can easily access to the delivery food with confidence in health information.
 
-(여기에 JUNCTIONBREMEN 프로젝트에 대한 간략한 설명을 추가하세요)
+Our demo video is analyzing nutrient information from food image, which is work on backend. Also, if you want to evaluate our AI, you can implement jupyter-notebook in our ./Nutrient estimate/Demo/github,
+
+### Demo Video
+[Link](https://postechackr-my.sharepoint.com/:v:/g/personal/jiwooh_postech_ac_kr/Ec_yG5fboz9KrGF8Aw2heJMBTcAg6UlIh58KtoH-eBmhrA?e=k8VwIc)
 
 ## Blackout2025
 GARi: Shared Mobility Platform with AR and AI
