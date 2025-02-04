@@ -2,7 +2,7 @@
 이 저장소는 Bremen organization에서 진행한 여러 프로젝트를 종합한 것입니다.
 
 > 프로젝트 목록
-1. [JUNCTIONBREMEN](https://github.com/minhjih/JUNCTIONBREMEN) [목록 이동](#JUNCTIONBREMEN)
+1. [JUNCTION BREMEN](https://github.com/minhjih/JUNCTIONBREMEN) [목록 이동](#JUNCTIONBREMEN)
 2. [Blackout2025](https://github.com/minhjih/Blackout2025) [목록 이동](#Blackout2025)
 
 ## JUNCTIONBREMEN
