@@ -57,8 +57,8 @@ The first video was taken during hackerton near yeoksam station.
 > Our members are from **Bremen**, Band Club from POSTECH.<br>
 We enjoy trying various experiences and always live with a challenging mindset.
 
-PM: Minkyu Park [@jadestar](https://github.com/jadestarmin)<br>
+PM, Frontend: Minkyu Park [@jadestar](https://github.com/jadestarmin)<br>
 Designer: HyeIn You [@mehyein](https://github.com/mehyein)<br>
 Full-stack: JunHyeok Park [@joon363](https://github.com/joon363)<br>
 BackEnd: Jihun Choi [@ito358](https://github.com/ito358)<br>
-AI,BackEnd: Jaehyun Choi [@minji](https://github.com/minhjih)
+AI, BackEnd: Jaehyun Choi [@minji](https://github.com/minhjih)
