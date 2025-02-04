@@ -35,15 +35,15 @@ To address these problems, we propose a mobility app incorporating gamified elem
 [Parking Page Web]( https://minhjih.github.io/micro-processor/service_area_analysis.html) 
 
 <p align="center">
- <img src = "https://github.com/minhjih/Blackout2025/tree/1b99464868f14a46f48b5b0db0c89de01d42006d/output/demo_4.gif" height = 360 width = 640 >
+ <img src = "./output/demo_4.gif" height = 360 width = 640 >
 </p>
 You can experience this site whenever.
 
 
 [AI demo] 
 <p align="center">
- <img src = "https://github.com/minhjih/Blackout2025/tree/1b99464868f14a46f48b5b0db0c89de01d42006d/output/demo1.gif" height = 240 width = 320 >
- <img src = "https://github.com/minhjih/Blackout2025/tree/1b99464868f14a46f48b5b0db0c89de01d42006d/output/demo2.gif" height = 240 width = 320>
+ <img src = "./output/demo1.gif" height = 240 width = 320 >
+ <img src = "./output/demo2.gif" height = 240 width = 320>
 </p>
 The first video was taken during hackerton near yeoksam station.
 
