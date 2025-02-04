@@ -3,8 +3,7 @@
 
 > 프로젝트 목록
 1. [JUNCTIONBREMEN](https://github.com/minhjih/JUNCTIONBREMEN) [목록 이동](#JUNCTIONBREMEN)
-   - 참여자: 
-3. [Blackout2025](https://github.com/minhjih/Blackout2025) [목록 이동](#Blackout2025)
+2. [Blackout2025](https://github.com/minhjih/Blackout2025) [목록 이동](#Blackout2025)
 
 ## JUNCTIONBREMEN
 ### Momma
