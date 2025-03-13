@@ -58,6 +58,7 @@ The first video was taken during hackerton near yeoksam station.
 We enjoy trying various experiences and always live with a challenging mindset.
 
 PM, Frontend: Minkyu Park [@jadestar](https://github.com/jadestarmin)<br>
+Frontend: Jiwoo Hong [@jiwooh](https://github.com/jiwooh)
 Designer: Hyein You [@mehyein](https://github.com/mehyein)<br>
 Full-stack: JunHyeok Park [@joon363](https://github.com/joon363)<br>
 BackEnd: Jihun Choi [@ito358](https://github.com/ito358)<br>
